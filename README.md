@@ -1,0 +1,1 @@
+This is a simple method to implement a Modal using javscript
